@@ -2,8 +2,8 @@ Laravel-Translatable
 ====================
 
 [![Total Downloads](https://poser.pugx.org/intothesource/laravel-translatable/downloads.svg)](https://packagist.org/packages/intothesource/laravel-translatable)
-[![Build Status](https://travis-ci.org/intothesource/laravel-translatable.svg?branch=v4.3)](https://travis-ci.org/intothesource/laravel-translatable)
-[![Code Coverage](https://scrutinizer-ci.com/g/intothesource/laravel-translatable/badges/coverage.png?s=da6f88287610ff41bbfaf1cd47119f4333040e88)](https://scrutinizer-ci.com/g/intothesource/laravel-translatable/)
+<!-- [![Build Status](https://travis-ci.org/intothesource/laravel-translatable.svg?branch=v4.3)](https://travis-ci.org/intothesource/laravel-translatable)
+[![Code Coverage](https://scrutinizer-ci.com/g/intothesource/laravel-translatable/badges/coverage.png?s=da6f88287610ff41bbfaf1cd47119f4333040e88)](https://scrutinizer-ci.com/g/intothesource/laravel-translatable/) -->
 [![Latest Stable Version](http://img.shields.io/packagist/v/intothesource/laravel-translatable.svg)](https://packagist.org/packages/intothesource/laravel-translatable)
 [![License](https://poser.pugx.org/intothesource/laravel-translatable/license.svg)](https://packagist.org/packages/intothesource/laravel-translatable)
 

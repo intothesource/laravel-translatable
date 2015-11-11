@@ -1,12 +1,11 @@
 Laravel-Translatable
 ====================
 
-[![Total Downloads](https://poser.pugx.org/dimsav/laravel-translatable/downloads.svg)](https://packagist.org/packages/dimsav/laravel-translatable)
-[![Build Status](https://travis-ci.org/dimsav/laravel-translatable.svg?branch=v4.3)](https://travis-ci.org/dimsav/laravel-translatable)
-[![Code Coverage](https://scrutinizer-ci.com/g/dimsav/laravel-translatable/badges/coverage.png?s=da6f88287610ff41bbfaf1cd47119f4333040e88)](https://scrutinizer-ci.com/g/dimsav/laravel-translatable/)
-[![Latest Stable Version](http://img.shields.io/packagist/v/dimsav/laravel-translatable.svg)](https://packagist.org/packages/dimsav/laravel-translatable)
-[![License](https://poser.pugx.org/dimsav/laravel-translatable/license.svg)](https://packagist.org/packages/dimsav/laravel-translatable)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/c105358a-3211-47e8-b662-94aa98d1eeee/mini.png)](https://insight.sensiolabs.com/projects/c105358a-3211-47e8-b662-94aa98d1eeee)
+[![Total Downloads](https://poser.pugx.org/intothesource/laravel-translatable/downloads.svg)](https://packagist.org/packages/intothesource/laravel-translatable)
+[![Build Status](https://travis-ci.org/intothesource/laravel-translatable.svg?branch=v4.3)](https://travis-ci.org/intothesource/laravel-translatable)
+[![Code Coverage](https://scrutinizer-ci.com/g/intothesource/laravel-translatable/badges/coverage.png?s=da6f88287610ff41bbfaf1cd47119f4333040e88)](https://scrutinizer-ci.com/g/intothesource/laravel-translatable/)
+[![Latest Stable Version](http://img.shields.io/packagist/v/intothesource/laravel-translatable.svg)](https://packagist.org/packages/intothesource/laravel-translatable)
+[![License](https://poser.pugx.org/intothesource/laravel-translatable/license.svg)](https://packagist.org/packages/intothesource/laravel-translatable)
 
 This is a Laravel package for translatable models. Its goal is to remove the complexity in retrieving and storing multilingual model instances. With this package you write less code, as the translations are being fetched/saved when you fetch/save your instance.
 

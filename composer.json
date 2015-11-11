@@ -1,5 +1,5 @@
 {
-    "name": "dimsav/laravel-translatable",
+    "name": "intothesource/laravel-translatable",
     "description": "A Laravel package for multilingual models",
     "keywords": ["laravel", "translation", "language", "database"],
     "license": "MIT",
@@ -8,6 +8,10 @@
             "name": "Dimitrios Savvopoulos",
             "email": "ds@dimsav.com",
             "homepage": "http://dimsav.com"
+        },
+        {
+            "name": "David Bikanov",
+            "email": "dbikanov@intothesource.com"
         }
     ],
     "require": {
@@ -20,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dimsav\\Translatable\\": "src/Translatable/"
+            "intothesource\\Translatable\\": "src/Translatable/"
         },
         "classmap": [
             "tests"

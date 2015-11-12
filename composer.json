@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "intothesource\\Translatable\\": "src/Translatable/"
+            "IntoTheSource\\Translatable\\": "src/Translatable/"
         },
 		"classmap": [
             "tests"

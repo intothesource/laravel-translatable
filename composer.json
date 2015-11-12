@@ -25,7 +25,10 @@
     "autoload": {
         "psr-4": {
             "intothesource\\Translatable\\": "src/Translatable/"
-        }
+        },
+		"classmap": [
+            "tests"
+        ]
     },
     "minimum-stability": "dev"
 }
